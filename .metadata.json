@@ -1,0 +1,10 @@
+[
+  {
+    "package": "qqman",
+    "oncran": true
+  },
+  {
+    "package": "Tmisc",
+    "oncran": true
+  }
+]
