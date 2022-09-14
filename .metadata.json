@@ -1,5 +1,9 @@
 [
   {
+    "package": "kgp",
+    "oncran": true
+  },
+  {
     "package": "qqman",
     "oncran": true
   },

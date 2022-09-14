@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "kgp"]
+	path = kgp
+	url = https://github.com/stephenturner/kgp
+	shallow = true
+	registered = true
 [submodule "qqman"]
 	path = qqman
 	url = https://github.com/stephenturner/qqman
