@@ -1,6 +1,6 @@
 [
   {
-    "package": "Tmisc",
+    "package": "kgp",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "kgp",
+    "package": "Tmisc",
     "oncran": true
   }
 ]
