@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "kgp"]
 	path = kgp
 	url = https://github.com/stephenturner/kgp
-	shallow = true
-	registered = true
 [submodule "qqman"]
 	path = qqman
 	url = https://github.com/stephenturner/qqman
-	shallow = true
-	registered = true
 [submodule "Tmisc"]
 	path = Tmisc
 	url = https://github.com/stephenturner/tmisc
-	shallow = true
-	registered = true
