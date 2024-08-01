@@ -15,6 +15,10 @@
 	path = breakerofchains
 	url = https://github.com/MilesMcBain/breakerofchains
 	registered = false
+[submodule "distfromq"]
+	path = distfromq
+	url = https://github.com/reichlab/distfromq
+	registered = false
 [submodule "fiphde"]
 	path = fiphde
 	url = https://github.com/signaturescience/fiphde

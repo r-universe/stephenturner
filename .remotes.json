@@ -4,5 +4,17 @@
     "url": "https://github.com/MilesMcBain/breakerofchains",
     "via": ["Tverse"],
     "from": "Tverse"
+  },
+  {
+    "package": "distfromq",
+    "url": "https://github.com/reichlab/distfromq",
+    "via": ["fiphde"],
+    "from": "fiphde"
+  },
+  {
+    "package": "rplanes",
+    "url": "https://github.com/signaturescience/rplanes",
+    "via": ["fiphde"],
+    "from": "fiphde"
   }
 ]
