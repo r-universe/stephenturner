@@ -1,13 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/stephenturner/stephenturner.r-universe.dev
 	branch = HEAD
-[submodule "Tmisc"]
-	path = Tmisc
-	url = https://github.com/stephenturner/tmisc
-[submodule "kgp"]
-	path = kgp
-	url = https://github.com/stephenturner/kgp
-[submodule "qqman"]
-	path = qqman
-	url = https://github.com/stephenturner/qqman
+[submodule "pracpac"]
+	path = pracpac
+	url = https://github.com/signaturescience/pracpac
+[submodule "tfboot"]
+	path = tfboot
+	url = https://github.com/colossal-compsci/tfboot
