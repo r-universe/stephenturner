@@ -2,9 +2,45 @@
 	path = .registry
 	url = https://github.com/stephenturner/stephenturner.r-universe.dev
 	branch = HEAD
+[submodule "Tmisc"]
+	path = Tmisc
+	url = https://github.com/stephenturner/Tmisc
+[submodule "Tverse"]
+	path = Tverse
+	url = https://github.com/stephenturner/Tverse
+[submodule "biorecap"]
+	path = biorecap
+	url = https://github.com/stephenturner/biorecap
+[submodule "fiphde"]
+	path = fiphde
+	url = https://github.com/signaturescience/fiphde
+[submodule "focustools"]
+	path = focustools
+	url = https://github.com/signaturescience/focustools
+[submodule "hcop"]
+	path = hcop
+	url = https://github.com/stephenturner/hcop
+[submodule "kgp"]
+	path = kgp
+	url = https://github.com/stephenturner/kgp
 [submodule "pracpac"]
 	path = pracpac
 	url = https://github.com/signaturescience/pracpac
+[submodule "qqman"]
+	path = qqman
+	url = https://github.com/stephenturner/qqman
+[submodule "rpdd"]
+	path = rpdd
+	url = https://github.com/stephenturner/rpdd
+[submodule "rplanes"]
+	path = rplanes
+	url = https://github.com/signaturescience/rplanes
+[submodule "skater"]
+	path = skater
+	url = https://github.com/signaturescience/skater
+[submodule "string2dna"]
+	path = string2dna
+	url = https://github.com/stephenturner/string2dna
 [submodule "tfboot"]
 	path = tfboot
 	url = https://github.com/colossal-compsci/tfboot
