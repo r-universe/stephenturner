@@ -40,6 +40,9 @@
 [submodule "rpdd"]
 	path = rpdd
 	url = https://github.com/stephenturner/rpdd
+[submodule "rpkgdemo"]
+	path = rpkgdemo
+	url = https://github.com/stephenturner/rpkgdemo
 [submodule "rplanes"]
 	path = rplanes
 	url = https://github.com/signaturescience/rplanes
